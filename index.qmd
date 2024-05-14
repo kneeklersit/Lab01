@@ -4,7 +4,7 @@ title: "About Me"
 
 Welcome to my personal website! Here, I share my projects, experiences, and hobbies.
 
-![Me](img/me.jpg)
+![Photo of me](img/me.jpg)
 
 Hi, I am Nicholas Chong and I am currently in Applied Aritificial Intelligence degree in SIT. I enjoy playing sports such as touch rugby and hanging out with my friends! I will talk more about myself in the other pages. 
 

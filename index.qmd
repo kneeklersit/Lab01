@@ -1,11 +1,10 @@
 ---
-title: "lab01_website"
+title: "About Me"
 ---
 
-This is a Quarto website.
+Welcome to my personal website! Here, I share my projects, experiences, and hobbies.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Me](img/me.jpg)
 
-```{r}
-1 + 1
-```
+Hi, I am Nicholas Chong and I am currently in Applied Aritificial Intelligence degree in SIT. I enjoy playing sports such as touch rugby and hanging out with my friends! I will talk more about myself in the other pages. 
+

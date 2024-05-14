@@ -4,17 +4,18 @@ project:
 
 website:
   title: "lab01_website"
+  favicon: img\logo.png  # Provide the path to your favicon file
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: FYP.qmd  # Assuming you have a page for the FYP Project
+        text: FYP Project
+      - href: about.qmd  # Assuming this is your additional page
+        text: About me
 
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: styles.css
     toc: true
-
-
-

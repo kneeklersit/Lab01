@@ -1,0 +1,18 @@
+---
+title: "FYP Project"
+---
+
+Here's a deep dive into my Final Year Project, where I developed a POC of digital E-wallet payment system called "Container Pay"
+
+## Objectives
+- Container Pay is a company that manages transactions between depots and hauliers using a set of integrated applications
+
+## Project Deliverables
+- A secure E-wallet system to manage transactions between depots and hauliers
+- Intuitive and User-Friendly interfaces for IOS and Android and APis for target to interact with the system.
+
+## Problem Statement
+- Currently,  there isn’t any secure and digitized payment system for hauliers and depots. In order to solve this, we created a proof-of-concept of a secure E-wallet and payment system that allows seamless transactions between hauliers and depots.
+
+![Project Image](img/CP.jpg)
+{{< video https://youtu.be/Pt0EflB1sBc width="600" height="400" >}}

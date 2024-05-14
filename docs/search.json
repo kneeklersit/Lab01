@@ -2,15 +2,85 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lab01_website",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal website! Here, I share my projects, experiences, and hobbies.\n\n\n\nMe\n\n\nHi, I am Nicholas Chong and I am currently in Applied Aritificial Intelligence degree in SIT. I enjoy playing sports such as touch rugby and hanging out with my friends! I will talk more about myself in the other pages."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my personal space on the web! Here, I share a blend of academic insights, personal hobbies, and experiences that have shaped who I am today.\n\n\nMy journey in education has been both challenging and rewarding. Studying Artificial Intelligence at the Singapore Institute of Technology, I’ve engaged with a rigorous curriculum covering algorithms, machine learning, and ethical AI use. These courses have not only honed my technical skills but also shaped my approach to problem-solving in everyday life.\n\n\n\nThroughout my academic and professional journey, I’ve kept detailed notes, especially on complex topics such as deep learning and data security. These notes have been invaluable, helping me to clarify concepts and serve as a reference during project work and presentations.\n\n\n\n\nTouch Rugby: I have been playing topuch rugby since I was in Poly year 1 and currently am in the touch rugby CCA in SIT.\nGaming: I love playing both online games and board games with my friends. Some board games include Avalon, Saboteur, Cluedo and Monopoly\n\n\n\n\nTraveling offers a fresh perspective and enriches my understanding of the world. One recent trip was where I went to JB with my touch rugby club to participate in a competition together with some of the malaysian clubs. \n\n\n\nOne of my all-time favorite dishes to prepare is Chicken Rice, a simple yet flavorful dish: 1. Prepare the chicken: Season and boil until perfectly tender. 2. Rice preparation: Cook the rice with garlic, ginger, and chicken fat for that signature flavor. 3. Serve with: Cucumber slices and chili sauce. Fun fact: I made this dish for my host when I went on an exchange trip to Japan when I was 11!\n\n\n\nChristopher Nolan’s “Inception” is a masterpiece that blends a complex narrative with breathtaking visuals. The film’s exploration of dreams and reality resonates with me, as it parallels the complexities of artificial intelligence.\n\nFeel free to navigate through the rest of my site to learn more about my projects and experiences!"
+  },
+  {
+    "objectID": "FYP.html",
+    "href": "FYP.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Here’s a deep dive into my Final Year Project, where I developed a POC of digital E-wallet payment system called “Container Pay”"
+  },
+  {
+    "objectID": "FYP.html#objectives",
+    "href": "FYP.html#objectives",
+    "title": "FYP Project",
+    "section": "Objectives",
+    "text": "Objectives\n\nContainer Pay is a company that manages transactions between depots and hauliers using a set of integrated applications"
+  },
+  {
+    "objectID": "FYP.html#project-deliverables",
+    "href": "FYP.html#project-deliverables",
+    "title": "FYP Project",
+    "section": "Project Deliverables",
+    "text": "Project Deliverables\n\nA secure E-wallet system to manage transactions between depots and hauliers\nIntuitive and User-Friendly interfaces for IOS and Android and APis for target to interact with the system."
+  },
+  {
+    "objectID": "FYP.html#problem-statement",
+    "href": "FYP.html#problem-statement",
+    "title": "FYP Project",
+    "section": "Problem Statement",
+    "text": "Problem Statement\n\nCurrently, there isn’t any secure and digitized payment system for hauliers and depots. In order to solve this, we created a proof-of-concept of a secure E-wallet and payment system that allows seamless transactions between hauliers and depots.\n\n\n\n\nProject Image"
+  },
+  {
+    "objectID": "about.html#education-and-curriculum",
+    "href": "about.html#education-and-curriculum",
+    "title": "About Me",
+    "section": "",
+    "text": "My journey in education has been both challenging and rewarding. Studying Artificial Intelligence at the Singapore Institute of Technology, I’ve engaged with a rigorous curriculum covering algorithms, machine learning, and ethical AI use. These courses have not only honed my technical skills but also shaped my approach to problem-solving in everyday life."
+  },
+  {
+    "objectID": "about.html#learning-notes",
+    "href": "about.html#learning-notes",
+    "title": "About Me",
+    "section": "",
+    "text": "Throughout my academic and professional journey, I’ve kept detailed notes, especially on complex topics such as deep learning and data security. These notes have been invaluable, helping me to clarify concepts and serve as a reference during project work and presentations."
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "",
+    "text": "Touch Rugby: I have been playing topuch rugby since I was in Poly year 1 and currently am in the touch rugby CCA in SIT.\nGaming: I love playing both online games and board games with my friends. Some board games include Avalon, Saboteur, Cluedo and Monopoly"
+  },
+  {
+    "objectID": "about.html#travel-experiences",
+    "href": "about.html#travel-experiences",
+    "title": "About Me",
+    "section": "",
+    "text": "Traveling offers a fresh perspective and enriches my understanding of the world. One recent trip was where I went to JB with my touch rugby club to participate in a competition together with some of the malaysian clubs."
+  },
+  {
+    "objectID": "about.html#recipe-chicken-rice",
+    "href": "about.html#recipe-chicken-rice",
+    "title": "About Me",
+    "section": "",
+    "text": "One of my all-time favorite dishes to prepare is Chicken Rice, a simple yet flavorful dish: 1. Prepare the chicken: Season and boil until perfectly tender. 2. Rice preparation: Cook the rice with garlic, ginger, and chicken fat for that signature flavor. 3. Serve with: Cucumber slices and chili sauce. Fun fact: I made this dish for my host when I went on an exchange trip to Japan when I was 11!"
+  },
+  {
+    "objectID": "about.html#favorite-movie-inception",
+    "href": "about.html#favorite-movie-inception",
+    "title": "About Me",
+    "section": "",
+    "text": "Christopher Nolan’s “Inception” is a masterpiece that blends a complex narrative with breathtaking visuals. The film’s exploration of dreams and reality resonates with me, as it parallels the complexities of artificial intelligence.\n\nFeel free to navigate through the rest of my site to learn more about my projects and experiences!"
   }
 ]

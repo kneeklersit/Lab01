@@ -1,9 +1,40 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Nicholas Chong De-En
 
-```{r}
-1 + 1
-```
+Welcome to my personal space on the web! Here, I share a blend of academic insights, personal hobbies, and experiences that have shaped who I am today.
+
+## Education and Curriculum
+
+My journey in education has been both challenging and rewarding. Studying Artificial Intelligence at the Singapore Institute of Technology, I've engaged with a rigorous curriculum covering algorithms, machine learning, and ethical AI use. These courses have not only honed my technical skills but also shaped my approach to problem-solving in everyday life.
+
+## Learning Notes
+
+Throughout my academic and professional journey, I've kept detailed notes, especially on complex topics such as deep learning and data security. These notes have been invaluable, helping me to clarify concepts and serve as a reference during project work and presentations.
+
+## Hobbies
+- **Touch Rugby**: I have been playing topuch rugby since I was in Poly year 1 and currently am in the touch rugby CCA in SIT.
+- **Gaming**: I love playing both online games and board games with my friends. Some board games include Avalon, Saboteur, Cluedo and Monopoly
+
+## Travel Experiences
+
+Traveling offers a fresh perspective and enriches my understanding of the world. One recent trip was where I went to JB with my touch rugby club to participate in a competition together with some of the malaysian clubs. 
+![Overseas trip](img/todaks.jpg)
+
+## Recipe: Chicken Rice
+
+One of my all-time favorite dishes to prepare is Chicken Rice, a simple yet flavorful dish:
+1. **Prepare the chicken**: Season and boil until perfectly tender.
+2. **Rice preparation**: Cook the rice with garlic, ginger, and chicken fat for that signature flavor.
+3. **Serve with**: Cucumber slices and chili sauce.
+Fun fact: I made this dish for my host when I went on an exchange trip to Japan when I was 11!
+
+## Favorite Movie: "Inception"
+
+Christopher Nolan's "Inception" is a masterpiece that blends a complex narrative with breathtaking visuals. The film's exploration of dreams and reality resonates with me, as it parallels the complexities of artificial intelligence.
+
+---
+
+Feel free to navigate through the rest of my site to learn more about my projects and experiences!

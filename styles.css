@@ -1,1 +1,52 @@
-/* css styles */
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+/* Header styles */
+h1, h2, h3 {
+    color: #0275d8; /* Dark blue color, adjust as needed */
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Video styles */
+iframe {
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Specific styles for the navbar */
+.navbar {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+}
+
+.navbar a:hover {
+    background-color: #555;
+}
+
+/* Styling for links */
+a {
+    color: #0275d8; /* Blue color for links */
+}
+
+a:hover {
+    text-decoration: underline;
+}
